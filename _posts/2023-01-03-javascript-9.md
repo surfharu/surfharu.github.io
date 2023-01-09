@@ -1,5 +1,5 @@
 ---
-title: "[javascript] 변수값 서로 교환하기" 
+title: javascript 변수값 서로 교환하기
 author: surfharu
 date: 2023-01-03 09:00:00 +0800
 categories: [javascript]
